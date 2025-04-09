@@ -3,7 +3,7 @@
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealyt" alt="therealyt" /></a> </p>
 
-- 🔭 I’m currently working on [Verify](https://verify-otp.vercel.app)
+### I’m currently working on <img src="https://verify.yonathan.tech/logo.svg" alt="xd" width="40" height="40"/> [Verify](https://verify.yonathan.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
